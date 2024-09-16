@@ -31,7 +31,7 @@ To get started with the GoMarketplace project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/renatosilveira99/go-marketplace
+   git clone https://github.com/renatosilveira99/go-marketplace-mobile
    ```
 
 2. **Navigate to the project directory**:
